@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-29 04:12:21 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 04:12:25 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 04:12:28 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 06:54:08 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 13:22:55 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 13:32:50 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 17:38:04 --> 404 Page Not Found: ../modules/admin/controllers/Admin/index.php
+ERROR - 2023-01-29 17:38:12 --> 404 Page Not Found: ../modules/admin/controllers/Admin/index.php
+ERROR - 2023-01-29 17:38:20 --> 404 Page Not Found: ../modules/admin/controllers/Admin/index.php
+ERROR - 2023-01-29 20:32:57 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:57 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:57 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:58 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:58 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:58 --> 404 Page Not Found: ../modules/admin/controllers/Admin/view
+ERROR - 2023-01-29 20:32:58 --> 404 Page Not Found: ../modules/admin/controllers/Admin/includes
+ERROR - 2023-01-29 20:32:59 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:59 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:59 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:59 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:32:59 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 20:43:36 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 21:00:04 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 21:38:08 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 23:06:19 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 23:06:21 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 23:06:21 --> 404 Page Not Found: /index
+ERROR - 2023-01-29 23:06:23 --> 404 Page Not Found: /index

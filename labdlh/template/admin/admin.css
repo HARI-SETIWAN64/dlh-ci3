@@ -1,0 +1,134 @@
+.modal.fade:not(.in).right .modal-dialog {
+    -webkit-transform: translate3d(25%, 0, 0);
+    transform: translate3d(25%, 0, 0);
+}
+
+
+.more-link,.less-link{ border:1px solid; padding:2px; -webkit-border-radius: 3px;
+    -moz-border-radius:3px;
+    border-radius: 3px;}
+
+
+    .flexigrid div.form-div input[type="text"], .flexigrid div.form-div input[type="password"] {
+       height: auto !important;
+   }
+
+
+
+   .checkbox, .radio {
+       display: inline;
+       margin-bottom: 0;
+       margin-top: 5px;
+   }
+
+/**
+ * Font icons inside GroceryCRUD
+ */
+ .ajax_list .fa {
+   font-size: 18px;
+   color: inherit;
+   text-decoration: none;
+}
+
+
+.dataTables_wrapper .dataTables_processing {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+
+    margin-left: -40%;
+    text-align: center;
+    font-size: 1.2em; background-color:#CCC;
+
+}
+
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+}
+
+
+input[readonly]{
+    background-color: #eee;
+    opacity: 1;
+}
+
+
+.me input {
+	border: 1px solid #ccc;
+    border-radius: 0;
+    box-shadow: none;
+    border-color: #d2d6de;
+    height: 30px;
+    padding: 5px 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-size: 12px;
+    line-height: 1.5;
+
+}
+
+.modal-dialog {
+    /*max-width: 960px;*/
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .modal-dialog {
+        width: 95%;
+    }
+}
+
+
+
+
+
+#mytable {
+
+	border:solid;
+
+	border-width:1px 0px 0px 1px;
+
+	border-spacing:0px; border-color: #b7d2e6;
+
+}
+
+
+
+
+
+#mytable th { padding-left:2px; padding-right:2px; font-weight:bold; height:40px;
+
+	vertical-align:middle;
+
+	text-align:center;
+
+	border:solid;
+
+	border-width:0px 1px 1px 0px;
+
+	border-spacing:0px; background:#fff url(img/blue.gif) repeat-x bottom left; border-color: #b7d2e6;
+
+}
+
+
+
+#mytable td {  padding:2px;
+
+   // height:25px;
+
+   border:solid;
+
+   border-width:0px 1px 1px 0px;
+
+   border-spacing:0px; border-color: #b7d2e6;
+
+}

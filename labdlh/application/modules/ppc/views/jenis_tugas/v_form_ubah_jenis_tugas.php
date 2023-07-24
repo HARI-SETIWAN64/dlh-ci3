@@ -1,0 +1,56 @@
+<form method='post' action='' name='form_jenis_tugas' class='form-horizontal' id="form_jenis_tugas" >
+<div class="panel panel-default">
+  <div class="panel-heading">Ubah Jenis Tugas</div>
+    <div class="panel-body ">
+        <div class="col-md-12">
+            <div class="form-group">
+              <label for="" class="col-sm-4 control-label"> <div>Tugas</div> </label>
+              <div class="col-sm-8">
+              <?php echo form_dropdown('tugas_id', $tugas, isset($item->tugas_id) ? $item->tugas_id : '','class="form-control"  id="tugas_id"');?>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="" class="col-sm-4 control-label"> <div>Jenis Tugas</div> </label>
+              <div class="col-sm-8">
+              <?php echo form_input('jenis_tugas', isset($item->jenis_tugas) ? $item->jenis_tugas : '','class="form-control"  id="jenis_tugas"');?>
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-sm-12" align="right">
+                <a class='btn btn-primary' href='javascript:void(0)' onclick='simpan()'><i class="icon icon-briefcase icon-white"></i>&nbsp; Simpan</a>  
+              </div>
+            </div>  
+        </div>
+      
+
+    </div> 
+</div>
+ 
+
+ <?php $id = !empty($item->id) ? $item->id : '';?>
+ 
+</form>
+
+<script type="text/javascript">
+function simpan()
+{
+  $("#ajax_loader").show();
+  $.ajax({
+    url: '<?= base_url()?>ppc/jenis_tugas/simpan_perubahan/<?php echo $id?>', 
+    data: $(document.form_jenis_tugas.elements).serialize(), 
+    success: function(r){
+      json = $.parseJSON(r);
+      if (json.status == 'success') {
+      get_items();
+      $("#ajax_loader").hide();
+      $('#ajax-modal').modal('hide');                     
+      }else{
+        $("#ajax_loader").hide();
+      }
+    },
+    type: "post", 
+    dataType: "html"
+  }); 
+  return false;
+}
+</script>

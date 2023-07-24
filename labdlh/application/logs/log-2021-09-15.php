@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-15 03:52:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 07:26:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 07:35:48 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 07:35:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 07:41:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 07:44:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:18:21 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:18:29 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:18:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:26:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:26:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:36:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 08:36:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 09:01:13 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 09:02:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 09:02:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 10:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 10:45:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 10:46:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 10:46:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:06:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:06:08 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:06:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:43:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:44:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:45:32 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:45:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 12:45:45 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 14:24:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 15:00:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 15:00:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 15:12:43 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 16:25:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-15 21:10:22 --> 404 Page Not Found: /index
